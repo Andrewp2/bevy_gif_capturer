@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Andrew Peterson"]
 description = "Gif capturer for Bevy Ecosystem"
-repostiory = "https://github.com/andrewp2/bevy_gif_capturer"
+repostiory = "https://github.com/Andrewp2/bevy_gif_capturer"
 categories = ["game-development"]
 keywords = ["gamedev", "gif", "wgpu"]
 
